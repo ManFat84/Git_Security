@@ -377,8 +377,3 @@ if __name__ == "__main__":
     print(f"All tests passed: {all_passed} {'✓✓✓' if all_passed else '✗✗✗'}")
     print()
 
-# Commented out IPython magic to ensure Python compatibility.
-# # Save RBE as a python module
-# %%writefile rbe.py
-# # paste ONLY the final working RBE class and utils here
-#
